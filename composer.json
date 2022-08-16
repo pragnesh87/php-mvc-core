@@ -1,0 +1,16 @@
+{
+  "name": "pragnesh/php-mvc-core",
+  "autoload": {
+    "psr-4": {
+      "Core\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Pragnesh",
+      "email": "pragnesh3107@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {}
+}
